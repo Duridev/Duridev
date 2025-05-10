@@ -4,7 +4,7 @@
 
 <br>
 
-## <picture><img src="https://raw.githubusercontent.com/Duridev/Duridev/main/img-duridev/abot-me.gif" width="30px"></picture> **About me**
+## <img src="https://raw.githubusercontent.com/Duridev/Duridev/main/img-duridev/abot-me.gif" width="30"><b> About me</b>
 
 <br>
 
@@ -49,13 +49,13 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duridev&layout=compact&theme=github_dark"/>
 </p>
 
 <br><br>
 
-##  **Conectémonos!!** <picture><img src="https://raw.githubusercontent.com/Duridev/Duridev/main/img-duridev/handshake.gif" width="30px"></picture>
+## <img src="https://raw.githubusercontent.com/Duridev/Duridev/main/img-duridev/handshake.gif" width="30"><b> Conectémonos!!</b>
 
 <br>
 
