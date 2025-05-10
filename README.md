@@ -41,7 +41,7 @@
 
 <br><br>
 
-<p><b>** Y siempre pensando aún en más **</b></p>
+<p align="center"><b> Y siempre pensando aún en más! 🚀</b></p>
 
 <br><br>
 
@@ -61,11 +61,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/duridev" target="_blank">
+<a href="https://linkedin.com/in/duridev" target="_blank" style="margin-right: 15px;">
   <img src="https://img.shields.io/badge/linkedin: in/duridev/-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
-<span style="margin: 0 15px;"><span>
-<a href="mailto:duridev@gmail.com" target="_blank">
+
+<a href="mailto:duridev@gmail.com" target="_blank" style="margin-left: 15px;">
   <img src="https://img.shields.io/badge/mail: duridev@-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 
