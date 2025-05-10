@@ -21,17 +21,20 @@
 
 <p align="center">
 
-- **Tecnologías Front-End**:  <br>
+- **Tecnologías Front-End**:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,wordpress,bootstrap,tailwind,js,vue,pinia)](https://skillicons.dev)  
 
 <br><br>
 
-- **Otras Tecnologías y Herramientas**:  <br>
+- **Otras Tecnologías y Herramientas**:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vite)](https://skillicons.dev)  
 
 <br><br>
 
-- **Pronto también iré por**:  <br>
+- **Pronto también iré por**:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,vuetify,nuxt,typescript,postgres)](https://skillicons.dev)  
 
 </p>
