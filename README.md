@@ -51,10 +51,10 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duridev&layout=compact&theme=github_dark"/>
-  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Duridev&layout=compact)
-  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Duridev&layout=compact&theme=github_dark)
-</p>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Duridev&layout=compact&theme=github_dark"/>
 
+</p>
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Duridev&layout=compact)
 <br><br>
 
 ## <img src="https://raw.githubusercontent.com/Duridev/Duridev/main/img-duridev/handshake.gif" width="30"><b> Conectémonos!!</b>
