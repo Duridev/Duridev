@@ -51,6 +51,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duridev&layout=compact&theme=github_dark"/>
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Duridev&layout=compact)
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Duridev&layout=compact&theme=github_dark)
 </p>
 
 <br><br>
