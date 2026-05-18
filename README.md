@@ -1,6 +1,4 @@
-<h1 align="center"><b>Hola! soy Daniel Uribe "Duridev"</b> 
 
-<br><br>](url)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
